@@ -1,0 +1,10 @@
+*.pyc
+.DS_Store
+snippets.ipynb
+.ipynb_checkpoints
+*.log
+*.sqlite
+db.json
+pdfs
+powerpoints
+ppt_images
