@@ -1,8 +1,0 @@
-firefox
-libreoffice
-libreoffice-java-common
-libreoffice-script-provider-python
-uno-libs3
-python3-uno
-nano
-fonts-liberation
