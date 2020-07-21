@@ -1,0 +1,1409 @@
+id,taxon_name,common_name
+species/15849,Nephila edulis,Australian Golden Orb-weaver Spider
+species/16848,Enypniastes eximia,Swimming sea cucumber
+species/8608,Cryptocheilus bicolor,Spider Hunting Wasp
+species/15155,Argiope trifasciata,Banded Garden Spider
+species/12426,Stanwellia grisea,Melbourne Trapdoor Spider
+species/12357,Celaenia excavata,Bird-dropping Spider
+species/12430,Argiope keyserlingi,St. Andrew's Cross Spider
+species/12422,Phonognatha graeffei,Leaf-curling Spider
+species/15889,Eurythenes,Deep-sea Amphipod
+species/8815,Salticidae,Jumping Spider
+species/8447,Pseudocheirus peregrinus,Common Ringtail Possum
+species/3233,Lerista bougainvillii,Bougainville's Skink
+species/3266,Hemiergis talbingoensis talbingoensis,Three-toed Earless Skink
+species/13712,Pseudemoia entrecasteauxii,Tussock Cool-skink
+species/8551,Cimex,Bed Bug
+species/8451,Dasyurus maculatus,Spotted-tailed Quoll
+species/10546,Mastacomys fuscus,Broad-toothed Rat
+species/8731,Polinices (Conuber) conicus,Moon Snail
+species/8414,Canis lupus dingo,Dingo
+species/8512,Galeolaria,Intertidal Tube Worm
+species/8375,Pogona vitticeps,Central Bearded Dragon
+species/8638,Ostrea angasi,Mud Oyster
+species/14381,Megascolides australis,Giant Gippsland Earthworm
+species/8771,Cantareus aspersa,Common Garden Snail
+species/8476,Dytiscidae,Diving Beetles
+species/15128,Rhipicera (Agathorhipis) femorata,Feather-horned Beetle
+species/8331,Phyllopteryx taeniolatus,Common Seadragon
+species/8305,Aracana ornata,Ornate Cowfish
+species/8522,Myrmecia,Bull Ant
+species/12396,Calamanthus fuliginosus,Striated Fieldwren
+species/8455,Rattus rattus,Black Rat
+species/8431,Mus musculus,House Mouse
+species/8186,Columba livia,Rock Dove
+species/8234,Passer domesticus,House Sparrow
+species/8791,Notechis scutatus,Tiger Snake
+species/8612,Vespula germanica,European Wasp
+species/8683,Physalia utriculus,Blue-bottle
+species/8680,Aurelia,Moon Jellyfish
+species/8685,Velella velella,By-the-wind Sailor
+species/8681,Catostylus mosaicus,Blue Blubber
+species/8684,Pseudorhiza haeckeli,Haekel's Jellyfish
+species/8682,Cyanea annaskala,Lion's Mane Jellyfish
+species/14248,Carybdea rastoni,Box Jellyfish
+species/8657,Halicarcinus ovatus,Three-pronged Sea Spider
+species/16660,Tympanocryptis pinguicolla,Grassland Earless Dragon
+species/11522,Thylacinus cynocephalus,Thylacine
+species/3369,Chrysococcyx lucidus,Shining Bronze-cuckoo
+species/12395,Petroica boodang,Scarlet Robin
+species/7378,Taeniopygia guttata,Zebra Finch
+species/4886,Acanthiza chrysorrhoa,Yellow-rumped Thornbill
+species/5761,Accipiter novaehollandiae,Grey Goshawk
+species/7334,Anthus novaeseelandiae,Australasian Pipit
+species/8402,Perameles gunnii,Eastern Barred Bandicoot
+species/16646,Chaeropus yirratji,Pig-footed Bandicoot
+species/16648,Chaeropus ecaudatus,Landwang
+species/16485,Cacatua leadbeateri,Major Mitchell's Cockatoo
+species/16645,Lepas anatifera,Goose Barnacle
+species/16644,Ircinia,Sponge
+species/16450,Agrius convolvuli,Convolvulus Hawk Moth
+species/7669,Euryspongia,Sponge
+species/13715,Choerocoris paganus,Red Jewel-bug
+species/13711,Litoria peronii,Peron's Tree Frog
+species/13716,Acripeza reticulata,Mountain Katydid
+species/13713,Niveoscincus metallicus,Metallic Cool-skink
+species/13720,Breda jovialis,Jupiter Jumping Spider
+species/13722,Austrolestes annulosus,Blue Ringtail
+species/13721,Tamopsis,
+species/13718,Milax gagates,Black-keeled Slug
+species/13717,Monistria concinna,Spotted Mountain-grasshopper
+species/13723,Austroargiolestes icteromelas,Common Flatwing
+species/13719,Missulena occatoria,Red Headed Mouse Spider
+species/8652,Carcinus maenas,European Shore Crab
+species/14250,Neosebastes scorpaenoides,Common Gurnard Perch
+species/14369,Philocheras victoriensis,Victorian Sand Shrimp
+species/14353,Heteropilumnus fimbriatus,Bearded Crab
+species/14483,Raeta (Raetella) pulchella,Bivalve Mollusc
+species/8695,Octopus pallidus,Pale Octopus
+species/15241,Neoodax balteatus,Little Weed Whiting
+species/8742,Asterias amurensis,Northern Pacific Seastar
+species/8201,Calidris ferruginea,Curlew Sandpiper
+species/14379,Psephotus haematonotus,Red-rumped Parrot
+species/8238,Turdus merula,Common Blackbird
+species/8794,Pseudechis porphyriacus,Red-bellied Black Snake
+species/8177,Gymnorhina tibicen,Australian Magpie
+species/8161,Malurus cyaneus,Superb Fairy-wren
+species/8756,Scutigeridae,House Centipede
+species/16506,Psephotus varius,Mulga Parrot
+species/15583,Nyctophilus gouldi,Gould's Long-eared Bat
+species/16449,Thalassarche bulleri,Buller's Albatross
+species/15815,Melanodryas cucullata,Hooded Robin
+species/16474,Geopelia striata placida,Peaceful Dove
+species/16475,Malurus splendens,Splendid Fairy-wren
+species/15582,Platycercus elegans flaveolus,Crimson Rosella
+species/15954,Lasiorhinus latifrons,Southern Hairy-nosed Wombat
+species/11509,Petrogale penicillata,Brush-tailed Rock Wallaby
+species/12596,Manorina flavigula,Yellow-throated Miner
+species/12570,Smicrornis brevirostris,Weebill
+species/12568,Malurus lamberti,Variegated Fairy-wren
+species/7308,Cacatua sanguinea,Little Corella
+species/7359,Zoothera lunulata,Bassian Thrush
+species/7351,Lichenostomus virescens,Singing Honeyeater
+species/7333,Alauda arvensis,Eurasian Skylark
+species/6370,Struthidea cinerea,Apostlebird
+species/12562,Polytelis anthopeplus,Regent Parrot
+species/7340,Carduelis chloris,European Greenfinch
+species/5752,Tringa nebularia,Common Greenshank
+species/5787,Porzana fluminea,Australian Spotted Crake
+species/5780,Pachyptila turtur,Fairy Prion
+species/5776,Macronectes giganteus,Southern Giant-Petrel
+species/15229,Saproscincus mustelinus,Weasel Skink
+species/3245,Menetia greyii,Common Dwarf Skink
+species/14954,Cetorhinus maximus,Basking Shark
+species/3243,Ardeotis australis,Australian Bustard
+species/14943,Dendrogramma enigmatica,
+species/15540,Trichomya hirsuta,Hairy Mussel
+species/15783,Barbatia (Barbatia) pistachia,Banded Ark
+species/7845,Aegotheles cristatus,Australian Owlet-nightjar
+species/15466,Daption capense,Cape Petrel
+species/8152,Cacatua roseicapilla,Galah
+species/8141,Circus approximans,Swamp Harrier
+species/8595,Orthodera ministralis,Green Mantid
+species/8541,Helea scaphiformis,Pie-dish Beetle
+species/8381,Strophurus intermedius,Eastern Spiny-tailed Gecko
+species/8236,Rhipidura leucophrys,Willie Wagtail
+species/12610,Pomatostomus superciliosus,White-browed Babbler
+species/8569,Platyzosteria,Native Cockroach
+species/8136,Merops ornatus,Rainbow Bee-eater
+species/8811,Lycosidae,Wolf Spiders
+species/8380,Lucasium damaeum,Beaded Gecko
+species/8348,Limnodynastes dumerilii,Eastern Banjo Frog
+species/7229,Corcorax melanorhamphos,White-winged Chough
+species/8377,Christinus marmoratus,Marbled Gecko
+species/8464,Cherax destructor,Yabby
+species/15197,Dendrilla rosea,
+species/8423,Wallabia bicolor,Swamp Wallaby
+species/8400,Tiliqua rugosa,Stumpy-tail Lizard
+species/8195,Thalassarche cauta,Shy Albatross
+species/8416,Tachyglossus aculeatus,Short-beaked Echidna
+species/8235,Rhipidura albiscapa,Grey Fantail
+species/7350,Lichenostomus penicillatus,White-plumed Honeyeater
+species/8172,Phylidonyris novaehollandiae,New Holland Honeyeater
+species/7318,Phaps chalcoptera,Common Bronzewing
+species/8232,Pardalotus punctatus,Spotted Pardalote
+species/8231,Pachycephala rufiventris,Rufous Whistler
+species/8230,Pachycephala pectoralis,Golden Whistler
+species/8418,Macropus fuliginosus,Western Grey Kangaroo
+species/8229,Grallina cyanoleuca,Magpie-lark
+species/7329,Coracina novaehollandiae,Black-faced Cuckoo-shrike
+species/7336,Artamus cyanopterus,Dusky Woodswallow
+species/8139,Accipiter fasciatus,Brown Goshawk
+species/8784,Morelia spilota,Carpet Python
+species/13747,Nectria macrobrachia,Seastar
+species/13748,Pseudonepanthia troughtoni,Seastar
+species/8692,Hapalochlaena maculosa,Southern Blue-ringed Octopus
+species/8442,Gymnobelideus leadbeateri,Leadbeater's Possum
+species/8741,Heliocidaris erythrogramma,Sea Urchin
+species/8321,Meuschenia freycineti,Sixspine Leatherjacket
+species/8320,Brachaluteres jacksonianus,Southern Pygmy Leatherjacket
+species/14370,Leptomithrax gaimardii,Giant Spider Crab
+species/8461,Sepioteuthis australis,Southern Calamari Squid
+species/14324,Pempheris multiradiata,Bigscale Bullseye
+species/8743,Coscinasterias muricata,Eleven-armed Seastar
+species/8745,Nectria ocellata,Ocellate Seastar
+species/8618,Phlyctenactis tuberculosa,Swimming Anemone
+species/8669,Ovalipes australiensis,Sand Crab
+species/8193,Morus serrator,Australasian Gannet
+species/8701,Euprymna tasmanica,Southern Bobtail Squid
+species/8262,Phalacrocorax fuscescens,Black-faced Cormorant
+species/8316,Pictilabrus laticlavius,Senator Wrasse
+species/8327,Trachinops caudimaculatus,Southern Hulafish
+species/8697,Octopus kaurna,Southern Sand Octopus
+species/8281,Melicertus plebejus,Eastern King Prawn
+species/14327,Meuschenia flavolineata,Yellowstriped Leatherjacket
+species/8719,Tambja verconis,Verco's Nudibranch
+species/8307,Tetractenos glaber,Smooth Toadfish
+species/8306,Diodon nicthemerus,Globefish
+species/14365,Arctocephalus forsteri,Australasian Fur Seal
+species/14290,Arctocephalus pusillus,Australian Fur-seal
+species/8303,Latridopsis forsteri,Bastard Trumpeter
+species/14254,Contusus brevicaudus,Prickly Toadfish
+species/14371,Strigopagurus strigimanus,Stridulating Hermit Crab
+species/8336,Urolophus cruciatus,Banded Stingaree
+species/8338,Urolophus paucimaculatus,Sparsely-spotted Stingaree
+species/14251,Maxillicosta scabriceps,Little Gurnard Perch
+species/8313,Notolabrus tetricus,Bluethroat Wrasse
+species/14291,Fromia polypora,Seastar
+species/8333,Cephaloscyllium laticeps,Draughtboard Shark
+species/8319,Atypichthys strigatus,Mado
+species/8337,Urolophus gigas,Spotted Stingaree
+species/8325,Parma victoriae,Scalyfin
+species/8297,Scorpis aequipinnis,Sea Sweep
+species/8293,Upeneichthys vlamingii,Bluespotted Goatfish
+species/8462,Sepia apama,Giant Australian Cuttlefish
+species/8629,Barnea australasiae,Angel Wings
+species/8434,Pseudomys fumeus,Smoky Mouse
+species/8691,Argonauta nodosus,Knobbed Argonaut
+species/8656,Guinusia chabrus,Red Rock Crab
+species/8302,Girella zebra,Zebrafish
+species/8308,Caesioperca lepidoptera,Butterfly Perch
+species/8286,Gymnapistes marmoratus,Soldier
+species/14329,Cenolia trichoptera,Feather Star
+species/8310,Cheilodactylus nigripes,Magpie Perch
+species/8639,Pecten (Pecten) fumatus,Commercial Scallop
+species/8334,Dasyatis brevicaudata,Smooth Stingray
+species/14326,Aldrichetta forsteri,Yelloweye Mullet
+species/8750,Tosia australis,Biscuit Star
+species/8199,Arenaria interpres,Ruddy Turnstone
+species/14328,Arnoglossus muelleri,Mueller's Flounder
+species/14325,Eubalichthys mosaicus,Mosaic Leatherjacket
+species/14011,Macrorhynchia whiteleggei,Hydroid
+species/8744,Meridiastra calcar,Eight-armed Cushion Star
+species/14244,Botrylloides anceps,Ascidian
+species/8288,Kathetostoma laeve,Common Stargazer
+species/8311,Cheilodactylus spectabilis,Banded Morwong
+species/8326,Tilodon sexfasciatus,Moonlighter
+species/8693,Idiosepius notoides,Southern Pygmy Squid
+species/14245,Herdmania grandis,Ascidian
+species/8292,Sillaginodes punctatus,King George Whiting
+species/14249,Beroe cucumis,Comb Jelly
+species/8296,Dinolestes lewini,Longfin Pike
+species/14414,Allostichaster palmula,Paddle-spined Seastar
+species/8309,Caesioperca rasor,Barber Perch
+species/14246,Conocladus australis,Basket Star
+species/8694,Octopus maorum,Maori Octopus
+species/14252,Electroma (Electroma) georgiana,Little Wing Pearl Shell
+species/8436,Ornithorhynchus anatinus,Platypus
+species/14247,Centrostephanus rodgersii,Black Sea Urchin
+species/8703,Sepiadarium austrinum,Southern Bottletail Squid
+species/14323,Tursiops truncatus,Bottlenose Dolphin
+species/14255,Halophila australis,Paddle Weed
+species/14366,Caperea marginata,Pygmy Right Whale
+species/14256,Lepidotrigla papilio,Spiny Gurnard
+species/14253,Spiniraja whitleyi,Melbourne Skate
+species/8198,Anhinga novaehollandiae,Darter
+species/5765,Milvus migrans,Black Kite
+species/8470,Epiprocta,Dragonfly
+species/8368,Amphibolurus muricatus,Jacky Lizard
+species/8345,Limnodynastes fletcheri,Marsh Frog
+species/8369,Diporiphora nobbi,Nobbi Dragon
+species/14382,Lichenostomus melanops cassidix,Helmeted Honeyeater
+species/8500,Zygoptera,Damselfly
+species/8497,Epiprocta,Dragonfly nymph
+species/8755,Scolopendridae,Scolopendrid Centipede
+species/8559,Poecilometis,Shield Bug
+species/8163,Podargus strigoides,Tawny Frogmouth
+species/8814,Pholcus phalangioides,Daddy Long-legs
+species/8810,Latrodectus hasseltii,Redback
+species/8137,Hieraaetus morphnoides,Little Eagle
+species/8592,Heoclisis,Antlion
+species/12377,Dromaius novaehollandiae,Emu
+species/8599,Ctenomorpha marginipennis,Margined-winged Stick-insect
+species/8800,Badumna insignis,Black House Spider
+species/8246,Ardea pacifica,White-necked Heron
+species/8663,Lomis hirta,Hairy Stone Crab
+species/8655,Galathea australiensis,Squat Lobster
+species/14241,Amarinus laevis,Estuarine Sea Spider
+species/8278,Pagurixus handrecki,Clarrie's Hermit Crab
+species/14342,Palaemon intermedius,Striped Shrimp
+species/14356,Paguristes sulcatus,Hairy-legged Hermit Crab
+species/8674,Petrocheles australiensis,Spiny Porcelain Crab
+species/13598,Lepas anserifera,Goose Barnacle
+species/14351,Paguristes pugil,Boxer Hermit Crab
+species/14346,Lophopagurus (Lophopagurus) nanus,Dwarf Hermit Crab
+species/13740,Alpheus australosulcatus,Snapping Shrimp
+species/13704,Hadrosquilla perpasta,Plump Mantis Shrimp
+species/15886,Anomura,
+species/13605,Ceradocus dooliba,Amphipod
+species/8689,Jasus edwardsii,Southern Rock Lobster
+species/8469,Paratya australiensis,Freshwater shrimp
+species/8677,Tasmanoplax latifrons,Southern Sentinel Crab
+species/6836,Pseudomys novaehollandiae,New Holland Mouse
+species/8623,Chthamalus antennatus,Six-plated Barnacle
+species/8621,Catomerus polymerus,Surf Barnacle
+species/8653,Cyclograpsus granulosus,Purple-mottled Shore Crab
+species/8666,Nectocarcinus tuberculosus,Velvet Crab
+species/8667,Notomithrax minor,Small Seaweed Crab
+species/8625,Ibla quadrivalvis,Hairy Stalked Barnacle
+species/8678,Euidotea peronii,Sea Centipede
+species/8649,Bellidilia laevis,Smooth Pebble Crab
+species/8661,Leptograpsodes octodentatus,Burrowing Shore Crab
+species/8672,Paragrapsus quadridentatus,Four-toothed Shore Crab
+species/8622,Chamaesipho tasmanica,Honeycomb Barnacle
+species/8275,Amphibalanus amphitrite,Striped Barnacle
+species/8620,Austromegabalanus nigrescens,Giant Black Barnacle
+species/8627,Tesseropora rosea,Rose Barnacle
+species/8628,Tetraclitella purpurascens,Purple Four-plated Barnacle
+species/8624,Austrominius covertus,Secret Four-plated Barnacle
+species/8650,Bellidilia undecimspinosa,Large Pebble Crab
+species/8660,Lamarckdromia globosa,Shaggy Sponge Crab
+species/8665,Nectocarcinus integrifrons,Rough Rock Crab
+species/8668,Notomithrax ursus,Bear Seaweed Crab
+species/8670,Paragrapsus gaimardii,Red-spotted Shore Crab
+species/8673,Parasesarma erythodactyla,Red-fingered Shore Crab
+species/8676,Pinnotheres hickmani,Hickman's Pea Crab
+species/14345,Crabyzos longicaudatus,Sea Centipede
+species/14348,Neastacilla kanowna,Skeleton Louse
+species/14350,Serolina acaste,Sand Skater
+species/14349,Neastacilla inaequispinosa,Skeleton Louse
+species/14347,Neastacilla deducta,Skeleton Louse
+species/14344,Haliophasma cribense,Sea Centipede
+species/8688,Ibacus peronii,Balmain Bug
+species/8280,Alpheus villosus,Hairy Snapping Shrimp
+species/8283,Rhynchocinetes australis,Hinge-beak Shrimp
+species/13739,Michelaxiopsis australiensis,Mud Shrimp
+species/13669,Alope orientalis,Bald Prawn
+species/8654,Ebalia intermedia,Smooth Nut Crab
+species/8651,Brachynotus spinosus,Little Shore Crab
+species/13606,Euidotea bakeri,Sea Centipede
+species/13604,Pilumnus monilifera,Beaded Hairy Crab
+species/8671,Paragrapsus laevis,Mottled Shore Crab
+species/8679,Zuzara venosa,Marine Pill Bug
+species/14363,Austrosquilla osculans,Slender Mantis Shrimp
+species/14367,Serolina delaria,Sand Skater
+species/14355,Paranchialina angusta,Opossum Shrimp
+species/13735,Acutigebia simsoni,Spiny Mud Shrimp
+species/14343,Paridotea ungulata,Sea Centipede
+species/14352,Leptomithrax sternocostulatus,Ribbed Spider Crab
+species/14359,Pilumnus tomentosus,Common Hairy Crab
+species/13607,Paridotea munda,Sea Centipede
+species/14358,Pilumnus etheridgei,Hairy Crab
+species/14357,Pilumnus acer,Long-spined Hairy Crab
+species/8276,Naxia aurita,Smooth Seaweed Crab
+species/14360,Alpheus parasocialis,Social Snapping Shrimp
+species/8279,Alpheus richardsoni,Snapping Shrimp
+species/14354,Palaemon dolospina,Soft-spined Shrimp
+species/14340,Latreutes compressus,Blade-fronted Shrimp
+species/14341,Leptochela (Leptochela) sydniensis,Sydney Comb Shrimp
+species/14362,Biffarius ceramicus,Ceramic Ghost Shrimp
+species/14361,Chlorotocella spinicaudus,Slender-beaked Shrimp
+species/8441,Cercartetus nanus,Eastern Pygmy Possum
+species/8437,Acrobates pygmaeus,Feathertail Glider
+species/12259,Jalmenus evagoras,Imperial Hairstreak Butterfly
+species/13968,Gymnangium superbe,Hydroid
+species/8410,Felis catus,Cat
+species/8746,Parvulastra exigua,Five-armed Cushion Star
+species/8793,Parasuta nigriceps,Mitchell's Short-tailed Snake
+species/8460,Vombatus ursinus,Common Wombat
+species/8419,Macropus giganteus,Eastern Grey Kangaroo
+species/8422,Macropus rufus,Red Kangaroo
+species/8257,Grus rubicunda,Brolga
+species/8424,Phascolarctos cinereus,Koala
+species/8151,Cacatua galerita,Sulphur-crested Cockatoo
+species/8244,Ardea alba,Great Egret
+species/5767,Phalacrocorax sulcirostris,Little Black Cormorant
+species/8219,Poliocephalus poliocephalus,Hoary-headed Grebe
+species/8179,Leipoa ocellata,Malleefowl
+species/8148,Haliastur sphenurus,Whistling Kite
+species/8251,Chenonetta jubata,Wood Duck
+species/12391,Colluricincla harmonica,Grey Shrike-thrush
+species/8142,Elanus axillaris,Black-shouldered Kite
+species/8144,Falco cenchroides,Nankeen Kestrel
+species/8174,Dacelo novaeguineae,Laughing Kookaburra
+species/8187,Ocyphaps lophotes,Crested Pigeon
+species/8254,Fulica atra,Eurasian Coot
+species/8218,Podiceps cristatus,Great Crested Grebe
+species/16366,Tremoctopus gracilis,Blanket Octopus
+species/8367,Litoria verreauxii,Verreaux's Frog
+species/8456,Hydromys chrysogaster,Common Water Rat
+species/8180,Alisterus scapularis,Australian King-parrot
+species/8259,Oxyura australis,Blue-billed Duck
+species/8165,Burhinus grallarius,Bush Stone-curlew
+species/12376,Velesunio,Freshwater Mussels
+species/15906,Micromus tasmaniae,Brown Lacewing
+species/8446,Petaurus norfolcensis,Squirrel Glider
+species/15892,Ophiurida,Brittle Star
+species/15893,Pedunculata,Goose Barnacle
+species/15891,Holothuroidea,
+species/15895,Pycnogonida,
+species/15899,Ammothella biunguiculata,Pycnogonid
+species/15902,Nymphon molleri,Pycnogonid
+species/15898,Pseudopallene ambigua,Pycnogonid
+species/15903,Ascorhynchus longicollis,Pycnogonid
+species/15904,Nymphopsis bathursti,Pycnogonid
+species/15894,Valvifera,isopod
+species/15896,Pycnogonum tuberculatum,Pycnogonid
+species/14287,Ophiactis resiliens,Brittle Star
+species/14289,Ophiacantha alternata,Brittle Star
+species/15887,Ascorhynchus cooki,
+species/15888,Colossendeis tasmanica,
+species/8736,Ammothea australiensis,Pycnogonid
+species/15897,Nymphon novaehollandiae,Pycnogonid
+species/14372,Stylopallene cheilorhynchus,Pycnogonid
+species/8738,Pallenopsis macneilli,Sea Spider
+species/8739,Pycnogonum aurilineatum,Sea Spider
+species/14373,Parapallene avida,Pycnogonid
+species/8737,Anoplodactylus evansi,Sea Spider
+species/14312,Chiridota gigas,Sea Cucumber
+species/8712,Neoamphicyclus materiae,Sea Cucumber
+species/14364,Scoliorhapis theeli,Sea Cucumber
+species/8705,Neoamphicyclus mutans,Sea Cucumber
+species/8708,Australostichopus mollis,Soft Sea Cucumber
+species/8710,Leptosynapta dolabrifera,Sea Cucumber
+species/8707,Squamocnus aureoruber,Sea Cucumber
+species/8709,Staurothyone inconspicua,Sea Cucumber
+species/13738,Taeniogyrus roebucki,Sea Cucumber
+species/8704,Lipotrapeza vestiens,Sea Cucumber
+species/8711,Taeniogyrus papillis,Sea Cucumber
+species/8706,Pentocnus bursatus,Sea Cucumber
+species/4241,Heterodontus portusjacksoni,Port Jackson Shark
+species/13742,Allostichaster polyplax,Seastar
+species/8282,Palaemon serenus,Red-handed Shrimp
+species/15733,Genypterus tigerinus,Rock Ling
+species/8301,Enoplosus armatus,Old Wife
+species/15207,Arenigobius bifrenatus,Bridled Goby
+species/8515,Sabella spallanzanii,European Fan Worm
+species/15770,Scorpaena papillosa,Southern Red Scorpionfish
+species/15280,Afurcagobius tamarensis,Tamar Goby
+species/8513,Lepidonotus melanogrammus,Dark-marked Scale Worm
+species/8324,Parma microlepis,White-ear
+species/13736,Nereis bifida,Rag Worm
+species/8714,Ceratosoma brevicaudatum,Short-tailed Sea Slug
+species/15144,Aglaophamus australiensis,Nephtyidae segmented worm
+species/15765,Platycephalus fuscus,Dusky Flathead
+species/8662,Leptograpsus variegatus,Swift-footed Shore Crab
+species/8715,Chromodoris tasmaniensis,Orange Spot Nudibranch
+species/8717,Onchidella patelloides,Ocean Beach Slug
+species/14311,Eunice bassensis,Eunicid Worm
+species/15143,Australonereis ehlersi,Rag Worm
+species/13737,Thormora argus,Scale Worm
+species/8713,Aplysia parvula,Sea Hare
+species/15145,Leitoscoloplos bilobatus,Orbiniid Worm
+species/14305,Stiliger smaragdinus,Sap-sucking Sea Slug
+species/8287,Gymnothorax prasinus,Green Moray
+species/8314,Ophthalmolepis lineolata,Southern Maori Wrasse
+species/8642,Ophionereis schayeri,Banded Brittle Star
+species/8718,Oxynoe viridis,Sap-sucking Sea Slug
+species/8277,Paguristes frontalis,Common Hermit Crab
+species/14303,Elysia coodgeensis,Sap-sucking Sea Slug
+species/8716,Doriopsilla carneola,Nudibranch
+species/13727,Edenttellina typica,Sap-sucking Sea Slug
+species/14304,Elysia furvacauda,Sap-sucking Sea Slug
+species/14306,Aplysia juliana,Sea Hare
+species/13734,Midorigai australis,Sap-sucking Sea Slug
+species/13609,Ilbia ilbi,Bubble Shell
+species/8727,Austrolittorina unifasciata,Banded Periwinkle
+species/15778,Urocampus carinirostris,Hairy Pipefish
+species/4243,Trygonorrhina dumerilii,Southern Fiddler Ray
+species/13741,Ophioplocus bispinosus,Brittle Star
+species/15149,Gobiopterus semivestitus,Glassgoby
+species/15195,Zostera nigricaulis,Seagrass
+species/15191,Amphibolis antarctica,Sea Nymph
+species/8329,Hippocampus abdominalis,Bigbelly Seahorse
+species/13732,Cristiceps aurantiacus,Yellow Crested Weedfish
+species/8640,Clarkcoma canaliculata,Brittle Star
+species/8748,Petricia vernicina,Velvet Seastar
+species/15130,Anguilla australis,Southern Shortfin Eel
+species/14204,Girella tricuspidata,Luderick
+species/8294,Parequula melbournensis,Silverbelly
+species/8322,Meuschenia hippocrepis,Horseshoe Leatherjacket
+species/15192,Rhombosolea tapirina,Greenback Flounder
+species/8696,Octopus berrima,Southern Keeled Octopus
+species/8753,Uniophora granifera,Five-armed Seastar
+species/8135,Actinia tenebrosa,Waratah Anemone
+species/8285,Gnathanacanthus goetzeei,Red Velvetfish
+species/8291,Platycephalus laevigatus,Rock Flathead
+species/15196,Platycephalus bassensis,Southern Sand Flathead
+species/8335,Squatina australis,Australian Angelshark
+species/8317,Pseudolabrus rubicundus,Rosy Wrasse
+species/8615,Corynactis australis,Jewel Anemone
+species/8514,Metabonellia haswelli,Green Spoon Worm
+species/14321,Siphonaria diemenensis,False Limpet
+species/15193,Trinorfolkia clarkei,Clark's Threefin
+species/8614,Aulactinia veratra,Anemone
+species/8645,Cryptoplax striata,Chiton
+species/14309,Mustelus antarcticus,Gummy Shark
+species/15139,Teredo bartschi,Shipworm
+species/8643,Ophiothrix (Ophiothrix) caespitosa,Five-armed Brittle Star
+species/8647,Balanophyllia bairdiana,Solitary Coral
+species/8644,Ophiothrix (Placophiothrix) spongicola,Brittle Star
+species/8751,Tosia magnifica,Biscuit Star
+species/8749,Smilasterias multipara,Black and White Seastar
+species/15190,Ecklonia radiata,Common Kelp
+species/8675,Pilumnus fissifrons,Tasselled Crab
+species/14288,Antedon loveni,Feather Star
+species/14294,Alabes dorsalis,Common Shore Eel
+species/8304,Aracana aurita,Shaw's Cowfish
+species/8312,Dactylophora nigricans,Dusky Morwong
+species/14286,Amphiura (Amphiura) constricta,Brittle Star
+species/8664,Mictyris platycheles,Soldier Crab
+species/8617,Oulactis,Anemone
+species/8648,Austrodromidia octodentata,Bristled Sponge-crab
+species/8646,Ischnochiton (Ischnochiton) elongatus,Elongate Ischnochiton
+species/14307,Callorhinchus milii,Elephantfish
+species/8722,Cominella (Cominella) lineolata,Lineated Cominella
+species/8720,Austrocochlea constricta,Ribbed Top Shell
+species/8284,Aetapcus maculatus,Warty Prowfish
+species/13726,Platycephalus aurimaculatus,Toothy Flathead
+species/14310,Pristiophorus nudipinnis,Southern Sawshark
+species/14297,Nesogobius pulchellus,Sailfin Goby
+species/13729,Chrysophrys auratus,Snapper
+species/6415,Macquaria colonorum,Estuary Perch
+species/8700,Octopus warringa,Club Pygmy Octopus
+species/8323,Paraplesiops meleagris,Southern Blue Devil
+species/8328,Vincentia conspersa,Southern Cardinalfish
+species/8289,Omobranchus anolius,Oyster Blenny
+species/14296,Platycephalus richardsoni,Tiger Flathead
+species/14308,Galeorhinus galeus,School Shark
+species/14300,Heteroclinus heptaeolus,Ogilby's Weedfish
+species/14384,Plaxiphora (Plaxiphora) albida,Chiton
+species/13731,Bovichtus angustifrons,Dragonet
+species/14383,Ischnochiton (Ischnoradsia) australis,Chiton
+species/8641,Ophiomyxa australis,Brittle Star
+species/8613,Anthothoe albocincta,Orange and White Stripe Anemone
+species/8290,Parablennius tasmanianus,Tasmanian Blenny
+species/14302,Haletta semifasciata,Blue Weed Whiting
+species/15194,Sycozoa cerebriformis,Brain Ascidian
+species/13733,Notolabrus fucicola,Purple Wrasse
+species/14322,Stenochiton cymodocealis,Chiton
+species/14299,Stigmatopora nigra,Widebody Pipefish
+species/8134,Phlyctenanthus australis,Southern Anemone
+species/13725,Paraplesiops alisonae,Alison's Blue Devil
+species/8740,Pyura stolonifera,Cunjevoi
+species/8332,Carcharodon carcharias,White Shark
+species/8616,Epiactis,Anemone
+species/8698,Callistoctopus bunurong,Southern White-spot Octopus
+species/14295,Alabes parvula,Pygmy Shore Eel
+species/8330,Pegasus lancifer,Sculptured Seamoth
+species/14298,Acanthaluteres vittiger,Toothbrush Leatherjacket
+species/8315,Pentaceropsis recurvirostris,Longsnout Boarfish
+species/15231,Achoerodus viridis,Eastern Blue Groper
+species/8782,Amphipholis squamata,Brittle Star
+species/14301,Eupetrichthys angustipes,Snakeskin Wrasse
+species/8699,Octopus superciliosus,Frilled Pygmy Octopus
+species/13912,Bimeria australis,Hydroid
+species/15020,Hormosira banksii,Neptune's Necklace
+species/15279,Redigobius macrostoma,Largemouth Goby
+species/15021,Tethya,Golf Ball Sponge
+species/8318,Acanthaluteres spilomelanurus,Bridled Leatherjacket
+species/14318,Plectaster decanus,Seastar
+species/8726,Haliotis rubra,Black-lipped Abalone
+species/8516,Sabellastarte,Feather-duster Worm
+species/8619,Zoantharia,Zoanthid
+species/8781,Amoria undulata,Wavy Volute
+species/8729,Phasianella australis,Pheasant Shell
+species/8747,Pentagonaster duebeni,Vermillion Seastar
+species/8732,Polinices (Conuber) sordidus,Moon Snail egg mass
+species/8687,Siphonaria diemenensis,False Limpet
+species/15755,Ophisurus serpens,Serpent Eel
+species/8723,Conus anemone,Anemone Cone
+species/8752,Tosia neossia,Biscuit Star
+species/8686,Cellana tramoserica,Common Limpet
+species/15154,Spisula (Notospisula) trigonella,Bivalve
+species/8733,Pterochelus triformis,Three-shaped Murex
+species/8658,Heloecius cordiformis,Semaphore Crab
+species/8659,Helograpsus haswellianus,Haswell's Shore Crab
+species/8690,Sagmariasus verreauxi,Eastern Rock Lobster
+species/8631,Mimachlamys asperrima,Doughboy Scallop
+species/8634,Glycymeris (Veletuceta) grayana,Dog Cockle
+species/8636,Musculista senhousia,Senhouse's Mussel
+species/8780,Haliotis laevigata,Green-lipped Abalone
+species/15189,Callyspongia (Callyspongia),Sponge
+species/8298,Scorpis lineolata,Silver Sweep
+species/8724,Notocypraea comptonii,Brown Cowry
+species/14317,Meridiastra atyphoida,Seastar
+species/8730,Phasianotrochus eximius,Kelp Shell
+species/8721,Bembicium nanum,Striped-mouth Conniwink
+species/5015,Polinices (Conuber) sordidus,Moon Snail
+species/6637,Bembicium melanostomum,Common Conniwink
+species/8734,Scutus (Scutus) antipodes,Elephant Snail
+species/14089,Plumularia procumbens,Hydroid
+species/8779,Anadara (Anadara) trapezia,Mud Ark
+species/8632,Donax (Plebidonax) deltoides,Pipi
+species/8633,Fulvia (Fulvia) tenuicostata,Thin-ribbed Cockle
+species/8728,Opalia (Opalia) australis,Southern Wentletrap
+species/15188,Chondropsis kirki,Sponge
+species/8725,Dicathais orbita,Dog Winkle
+species/13743,Aquilonastra scobinata,Seastar
+species/13967,Gymnangium prolifer,Hydroid
+species/14086,Sertularia tenuis,Hydroid
+species/14019,Obelia dichotoma,Hydroid
+species/8637,Neotrigonia margaritacea,Common Brooch Shell
+species/8635,Katelysia scalarina,Stepped Venerid
+species/14032,Pycnotheca producta,Hydroid
+species/14034,Ralpharia magnifica,Hydroid
+species/13730,Stigmatopora argus,Spotted Pipefish
+species/8630,Brachidontes (Brachidontes) rostratus,Beaked Mussel
+species/14092,Amphisbetia fasciculata,Hydroid
+species/8735,Turbo (Subninella) undulatus,Turban Shell
+species/14059,Symplectoscyphus indivisus,Hydroid
+species/8783,Meridiastra gunnii,Six-armed Cushion Star
+species/14320,Anapella cycladea,Bivalve Mollusc
+species/14319,Paranepanthia grandis,Seastar
+species/13943,Eudendrium generale,Hydroid
+species/15204,Callyspongia (Callyspongia),Sponge
+species/15205,Callyspongia (Toxochalina),Sponge
+species/14316,Holopneustes porosissimus,Sea Urchin
+species/13932,Diphasia subcarinata,Hydroid
+species/14314,Goniocidaris tubaria,Thorny Sea Urchin
+species/8778,Lasaea australis,Bivalve Mollusc
+species/13856,Plumularia angusta,
+species/13862,Pycnotheca mirabilis,
+species/13963,Gymnangium ilicistomum,Hydroid
+species/13840,Monotheca amphibola,
+species/13854,Parascyphus simplex,
+species/13821,Hebella furax,
+species/13823,Hydractinia betkensis,
+species/13824,Hydranthea,
+species/13825,Hydranthea margarica,
+species/13826,Hydrodendron blackburni,
+species/13828,Lineolariidae,
+species/13829,Lobataria,
+species/13830,Lytocarpia delicatula,
+species/13831,Lytocarpia orientalis,
+species/13833,Macrorhynchia filamentosa,
+species/13834,Macrorhynchia mulderi,
+species/13835,Macrorhynchia quadriarmata,
+species/13851,Orthopyxis crenata,
+species/13924,Clytia hemisphaerica,Hydroid
+species/13853,Orthopyxis integra,
+species/13863,Ralpharia,
+species/13845,Nicoliana,
+species/13873,Sertularia maccallumi,
+species/13977,Halecium interpolatum,Hydroid
+species/13978,Halecium luteum,Hydroid
+species/13979,Halecium macrocaulus,Hydroid
+species/13980,Halecium ovatum,Hydroid
+species/14027,Plumularia goldsteini,Hydroid
+species/14013,Monotheca australis,Hydroid
+species/13767,Campanulina,
+species/13975,Halecium elegantulum,Hydroid
+species/13765,Calamphora campanulata,
+species/13766,Campanularia diverticula,
+species/13768,Campanulina cliftonia,
+species/13769,Campanulina elata,
+species/13771,Cladacanthella scabra,
+species/13772,Cladocoryne floccosa,
+species/13773,Cladocoryne minuta,
+species/13774,Clathrozoella,
+species/13775,Clathrozoella abyssalis,
+species/13776,Clathrozoella bathyalis,
+species/13777,Clathrozoella drygalskii,
+species/13778,Clathrozoella medeae,
+species/13779,Clathrozoellidae,
+species/13780,Corydendrium parasiticum,
+species/13781,Coryne eximia,
+species/13782,Corystolona,
+species/13784,Crateritheca crenata,
+species/13785,Dentitheca alata,
+species/13857,Plumularia crateriformis,
+species/13844,Monotheca togata,
+species/13836,Mitrocomium alcoicum,
+species/13837,Monstaechas,
+species/14082,Zyzzyzus spongicolus,Hydroid
+species/14077,Thyroscyphus marginatus,Hydroid
+species/14012,Merona operculata,Hydroid
+species/13855,Pennaria disticha,
+species/14016,Nemertesia cylindrica,Hydroid
+species/14029,Plumularia setacea,Hydroid
+species/14022,Phialella quadrata,Hydroid
+species/14008,Macrorhynchia ambigua,Hydroid
+species/13842,Monotheca obliqua,
+species/14009,Macrorhynchia philippina,Hydroid
+species/13786,Dentitheca hertwigi,
+species/14018,Obelia angulosa,Hydroid
+species/13787,Dicoryne annulata,
+species/14070,Tasmanaria aegis,Hydroid
+species/13788,Diphasia digitalis,
+species/14073,Thuiaria plumularioides,Hydroid
+species/13789,Dynamena spinea,
+species/14074,Thyroscyphoides sympodialis,Hydroid
+species/13790,Ectopleura exxonia,
+species/14078,Thyroscyphus torresi,Hydroid
+species/13791,Ectopleura larynx,
+species/14079,Tripoma arboreum,Hydroid
+species/13792,Eirene,
+species/14080,Zygophylax sagamiensis,Hydroid
+species/13793,Eudendrium currumbense,
+species/14060,Symplectoscyphus neglectus,Hydroid
+species/13794,Eudendrium pennycuikae,
+species/14069,Synthecium subventricosum,Hydroid
+species/13795,Filellum antarcticum,
+species/14081,Zygophylax sibogae,Hydroid
+species/13942,Eudendrium deforme,Hydroid
+species/13944,Eudendrium glomeratum,Hydroid
+species/13945,Eudendrium infundibuliforme,Hydroid
+species/13946,Eudendrium kirkpatricki,Hydroid
+species/13947,Eudendrium macquariensis,Hydroid
+species/13993,Hydrodendron armatum,Hydroid
+species/13948,Eudendrium merulum,Hydroid
+species/13949,Eudendrium minutum,Hydroid
+species/13950,Eudendrium nambuccense,Hydroid
+species/14020,Obelia geniculata,Hydroid
+species/13899,Aglaophenia pseudoplumosa,Hydroid
+species/13900,Aglaophenia sinuosa,Hydroid
+species/13901,Amphisbetia avia,Hydroid
+species/13904,Amphisbetia olseni,Hydroid
+species/13814,Halopteris diaphana,
+species/13815,Halopteris everta,
+species/13816,Halopteris plagiocampa,
+species/13817,Hebella,
+species/13818,Hebella albida,
+species/13819,Hebella costata,
+species/13820,Hebella dyssymetra,
+species/13822,Hebella scandens,
+species/13843,Monotheca pulchella,
+species/13859,Plumularia sulcata,
+species/13850,Orthopyxis australis,
+species/13847,Obelia,
+species/13860,Plumularia tubacarpa,
+species/13865,Rathkea,
+species/14021,Orthopyxis angulata,Hydroid
+species/13971,Halecium antarcticum,Hydroid
+species/14003,Lobataria newtoni,Hydroid
+species/14044,Sertularella decipiens,Hydroid
+species/14045,Sertularella diaphana,Hydroid
+species/13760,Amphisbetia minuscula,
+species/14061,Symplectoscyphus paulensis,Hydroid
+species/14071,Tasmanaria monticola,Hydroid
+species/14072,Thuiaria operculata,Hydroid
+species/14031,Polyplumaria cornuta,Hydroid
+species/14033,Ralpharia coccinea,Hydroid
+species/14037,Salacia desmoides,Hydroid
+species/14047,Sertularella quadridens,Hydroid
+species/14049,Sertularella vervoorti,Hydroid
+species/14035,Rosalinda marlina,Hydroid
+species/14038,Salacia flavidula,Hydroid
+species/14050,Sertularia unguiculata,Hydroid
+species/14055,Stegolaria geniculata,Hydroid
+species/14057,Symplectoscyphus epizoicus,Hydroid
+species/13888,Ventromma,
+species/13783,Crateritheca acanthostoma,
+species/13755,Acryptolaria operculata,
+species/13756,Aglaophenia brachiata,
+species/13770,Campanulinidae,
+species/13764,Anthohebella,
+species/13799,Gattya balei,
+species/13758,Aglaophenia recherchia,
+species/13761,Amphisbetia minuta,
+species/13762,Amphisbetia operculata,
+species/13763,Antennella singulata,
+species/14017,Nemertesia procumbens,Hydroid
+species/14084,Sertularella marginata,Hydroid
+species/14090,Orthopyxis caliculata,Hydroid
+species/13981,Halecium pearsonense,Hydroid
+species/13982,Halecium ralphae,Hydroid
+species/13841,Monotheca hyalina,
+species/13796,Filellum nitidum,
+species/13797,Filellum serpens,
+species/13798,Filellum serratum,
+species/13800,Gonothyraea,
+species/13801,Gonothyraea loveni,
+species/13802,Gymnangium australimage,
+species/13803,Gymnangium gracilicaule,
+species/13811,Halecium tabulatum,
+species/13812,Halecium tenellum,
+species/13813,Halecium tubatum,
+species/13973,Halecium bruniensis,Hydroid
+species/13976,Halecium fragile,Hydroid
+species/13804,Gymnangium humile,
+species/13805,Haleciidae,
+species/13806,Halecium beanii,
+species/13807,Halecium bithecum,
+species/13808,Halecium corpulatum,
+species/13809,Halecium dyssymetrum,
+species/13810,Halecium nanum,
+species/13839,Monotheca,
+species/13984,Halecium spatulum,Hydroid
+species/13988,Halopteris opposita,Hydroid
+species/13989,Halopteris polymorpha,Hydroid
+species/13991,Hybocodon cryptus,Hydroid
+species/13992,Hydrodendron arboreum,Hydroid
+species/13995,Hydrodendron daidalum,Hydroid
+species/13996,Hydrodendron dichotomum,Hydroid
+species/13997,Idiellana lepida,Hydroid
+species/14001,Lineolaria flexuosa,Hydroid
+species/14067,Synthecium orthogonium,Hydroid
+species/14058,Symplectoscyphus epizooticus,Hydroid
+species/14063,Symplectoscyphus sibogae,Hydroid
+species/14075,Thyroscyphus fruticosus,Hydroid
+species/13906,Antennella,Hydroid
+species/14026,Plumularia filicaulis,Hydroid
+species/13848,Obelia bidentata,
+species/13846,Nicoliana gravierae,
+species/13827,Lineolaria,
+species/13951,Eudendrium novaezelandiae,Hydroid
+species/13957,Gattya aglaopheniaformis,Hydroid
+species/14076,Thyroscyphus macrocythara,Hydroid
+species/14023,Plumularia australiensis,Hydroid
+species/14024,Plumularia badia,Hydroid
+species/14042,Sertularella,Hydroid
+species/14041,Salacia tetracythara,Hydroid
+species/14043,Sertularella avrilia,Hydroid
+species/13759,Amphisbetia bicuspidata,
+species/14039,Salacia hexodon,Hydroid
+species/14040,Salacia sinuosa,Hydroid
+species/14053,Solanderia fusca,Hydroid
+species/13983,Halecium sessile,Hydroid
+species/13990,Hincksella cylindrica,Hydroid
+species/14052,Silicularia undulata,Hydroid
+species/14054,Solanderia secunda,Hydroid
+species/13889,Ventromma bellarensis,
+species/13890,Ventromma irregularis,
+species/13891,Zygophylax antipathes,
+species/13892,Acryptolaria conferta,Hydroid
+species/13893,Acryptolaria gracilis,Hydroid
+species/13894,Acryptolaria minuta,Hydroid
+species/13895,Aequorea phillipensis,Hydroid
+species/13896,Aglaophenia carinifera,Hydroid
+species/13898,Aglaophenia postdentata,Hydroid
+species/13861,Polyplumaria bedoti,
+species/13852,Orthopyxis crenataformis,
+species/13849,Obelia spongicola,
+species/13838,Monostaechas quadridens,
+species/13858,Plumularia fragilia,
+species/14066,Synthecium campylocarpum,Hydroid
+species/13964,Gymnangium japonicum,Hydroid
+species/13965,Gymnangium longicorne,Hydroid
+species/13969,Gymnangium undulatum,Hydroid
+species/13970,Halecium amphibolum,Hydroid
+species/13972,Halecium banzare,Hydroid
+species/14062,Symplectoscyphus rostratus,Hydroid
+species/14065,Symplectoscyphus tuba,Hydroid
+species/14025,Plumularia epibracteolosa,Hydroid
+species/14028,Plumularia meretricia,Hydroid
+species/14036,Salacia alata,Hydroid
+species/14004,Lytocarpia angulosa,Hydroid
+species/14005,Lytocarpia brevirostris,Hydroid
+species/14006,Lytocarpia lepida,Hydroid
+species/14007,Lytocarpia phyteuma,Hydroid
+species/13952,Eudendrium racemosum,Hydroid
+species/13953,Eudendrium ramosum,Hydroid
+species/13954,Eudendrium ritchei,Hydroid
+species/13955,Eudendrium terranovae,Hydroid
+species/13956,Filellum conopeum,Hydroid
+species/13958,Gattya trebilcocki,Hydroid
+species/13959,Gonaxia tasmanica,Hydroid
+species/13962,Gymnangium hians,Hydroid
+species/13998,Idiellana pristis,Hydroid
+species/13999,Lafoea annulata,Hydroid
+species/14000,Lafoea dumosa,Hydroid
+species/14002,Lineolaria spinulosa,Hydroid
+species/13864,Ralpharia rosetta,
+species/13866,Rathkea octopunctata,
+species/13867,Salacia bidentata,
+species/13868,Salacia farquhari,
+species/13869,Sertularella areyi,
+species/13870,Sertularella mytila,
+species/13871,Sertularella simplex,
+species/13872,Sertularia balei,
+species/13874,Sertularia macrocarpa,
+species/13875,Sertularia mertoni,
+species/13876,Sertularia tongensis,
+species/13877,Solanderia misakinensis,
+species/13878,Staurocladia haswelli,
+species/13879,Staurotheca vanhoeffeni,
+species/13880,Symplectoscyphus longithecus,
+species/13881,Symplectoscyphus macrothecus,
+species/13882,Symplectoscyphus pygmaeus,
+species/13883,Synthecium,
+species/13884,Synthecium dentigerum,
+species/13885,Tasmanaria,
+species/13886,Tripoma,
+species/13887,Turritopsis nutricula,
+species/13929,Corymorpha rubicincta,Hydroid
+species/13930,Corystolona annulata,Hydroid
+species/13931,Diphasia mutulata,Hydroid
+species/13933,Dynamena bilamellata,Hydroid
+species/13934,Dynamena quadridentata,Hydroid
+species/13936,Eirene troglodyta,Hydroid
+species/13937,Eudendrium,Hydroid
+species/13938,Eudendrium aylingae,Hydroid
+species/13940,Eudendrium carneum,Hydroid
+species/13941,Eudendrium corrugatum,Hydroid
+species/13966,Gymnangium longirostre,Hydroid
+species/13905,Amphisbetia pulchella,Hydroid
+species/13907,Antennella campanuliformis,Hydroid
+species/13909,Antennella tubulosa,Hydroid
+species/13910,Anthohebella darwinensis,Hydroid
+species/13911,Anthohebella parasitica,Hydroid
+species/13914,Calamphora quadrispinosa,Hydroid
+species/13915,Campanularia ambiplica,Hydroid
+species/13916,Campanularia gaussica,Hydroid
+species/13917,Campanularia hicksoni,Hydroid
+species/13918,Campanularia nuytsensis,Hydroid
+species/13919,Campanularia pulcratheca,Hydroid
+species/13920,Candelabrum,Hydroid
+species/13922,Candelabrum harrisoni,Hydroid
+species/13925,Clytia linearis,Hydroid
+species/13926,Clytia paulensis,Hydroid
+species/13927,Clytia pearsonensis,Hydroid
+species/13928,Clytia stolonifera,Hydroid
+species/14015,Monotheca spinulosa,Hydroid
+species/14010,Macrorhynchia phoenicia,Hydroid
+species/13935,Ectopleura crocea,Hydroid
+species/14313,Amblypneustes ovum,Sea Urchin
+species/13903,Amphisbetia minima,Hydroid
+species/13902,Amphisbetia maplestonei,Hydroid
+species/14048,Sertularella robusta,Hydroid
+species/14030,Plumularia setaceoides,Hydroid
+species/13985,Halicornopsis elegans,Hydroid
+species/13757,Aglaophenia divaricata,Hydroid
+species/13961,Gymnangium aureum,Hydroid
+species/14064,Symplectoscyphus subdichotomus,Hydroid
+species/13913,Bougainvillia muscus,Hydroid
+species/13921,Candelabrum australe,Hydroid
+species/13923,Clathrozoon wilsoni,Hydroid
+species/13960,Gymnangium ascidioides,Hydroid
+species/14056,Stereotheca elongata,Hydroid
+species/14046,Sertularella pinnata,Hydroid
+species/13987,Halopteris glutinosa,Hydroid
+species/14068,Synthecium patulum,Hydroid
+species/13939,Eudendrium balei,Hydroid
+species/14014,Monotheca flexuosa,Hydroid
+species/13908,Antennella secundaria,Hydroid
+species/14085,Pennaria wilsoni,Hydroid
+species/14087,Aglaophenia cystifera,Hydroid
+species/14088,Aglaophenia parvula,Hydroid
+species/13974,Halecium delicatulum,Hydroid
+species/14051,Silicularia rosea,Hydroid
+species/13994,Hydrodendron australe,Hydroid
+species/13897,Aglaophenia plumosa,Hydroid
+species/14315,Holopneustes inflatus,Seagrass Sea Urchin
+species/13986,Halopteris campanula,Hydroid
+species/11118,Acanthodes,
+species/7201,Corvus mellori,Little Raven
+species/15852,Scoliidae,
+species/8108,Austroscolia soror,Hairy Flower Wasp
+species/8757,Engaeus,Burrowing Crayfish
+species/8761,Urodacus manicatus,Black Rock Scorpion
+species/12429,Cercophonius squama,Wood Scorpion
+species/5697,Lychas marmoreus,Little Marbled Scorpion
+species/8533,Chauliognathus lugubris,Plague Soldier Beetle
+species/8463,Amphipoda,Amphipod
+species/11381,Papilio (Princeps) aegeus aegeus,Orchard Swallowtail
+species/8191,Diomedea exulans,Wandering Albatross
+species/8196,Thalassarche chlororhynchos,Yellow-nosed Albatross
+species/8202,Calidris ruficollis,Red-necked Stint
+species/8260,Pelecanus conspicillatus,Australian Pelican
+species/8266,Platalea regia,Royal Spoonbill
+species/8268,Porphyrio porphyrio,Purple Swamphen
+species/8265,Platalea flavipes,Yellow-billed Spoonbill
+species/8263,Phalacrocorax melanoleucos,Little Pied Cormorant
+species/8211,Haematopus longirostris,Pied Oystercatcher
+species/8252,Cygnus atratus,Black Swan
+species/8214,Larus novaehollandiae,Silver Gull
+species/15158,Chlidonias hybridus,Whiskered Tern
+species/8250,Cereopsis novaehollandiae,Cape Barren Goose
+species/8200,Calidris acuminata,Sharp-tailed Sandpiper
+species/8240,Anas castanea,Chestnut Teal
+species/8248,Biziura lobata,Musk Duck
+species/8399,Tiliqua scincoides,Eastern Blue-tongue
+species/14969,Balaenoptera musculus,Blue Whale
+species/15751,Megaptera novaeangliae,Humpback Whale
+species/8239,Zosterops lateralis,Silvereye
+species/8226,Vanellus miles,Masked Lapwing
+species/8225,Thinornis rubricollis,Hooded Plover
+species/8220,Recurvirostra novaehollandiae,Red-necked Avocet
+species/8216,Limosa lapponica,Bar-tailed Godwit
+species/8212,Himantopus himantopus,Black-winged Stilt
+species/8205,Charadrius ruficapillus,Red-capped Plover
+species/8185,Trichoglossus haematodus,Rainbow Lorikeet
+species/8176,Cracticus torquatus,Grey Butcherbird
+species/8166,Menura novaehollandiae,Superb Lyrebird
+species/8173,Alcedo azurea,Azure Kingfisher
+species/8169,Anthochaera (Anellobia) chrysoptera,Little Wattlebird
+species/8167,Acanthorhynchus tenuirostris,Eastern Spinebill
+species/8258,Nycticorax caledonicus,Nankeen Night-heron
+species/8221,Sterna bergii,Crested Tern
+species/8197,Sterna albifrons,Little Tern
+species/8223,Sterna nereis,Fairy Tern
+species/15338,Hyporhamphus melanochir,Southern Garfish
+species/8357,Uperoleia martini,Martin's Toadlet
+species/8392,Pygopus lepidopodus,Common Scaly-foot
+species/8261,Phalacrocorax carbo,Great Cormorant
+species/8352,Paracrinia haswelli,Haswell's Frog
+species/8363,Litoria nudidigita,Leaf Green River Tree Frog
+species/8359,Litoria citropa,Blue Mountains Tree Frog
+species/8358,Litoria aurea,Green and Golden Bell Frog
+species/8215,Larus pacificus,Pacific Gull
+species/8373,Intellagama lesueurii,Eastern Water Dragon
+species/8227,Hirundo neoxena,Welcome Swallow
+species/8210,Haematopus fuliginosus,Sooty Oystercatcher
+species/15227,Eulamprus heatwolei,Yellow-bellied Water-skink
+species/8253,Egretta novaehollandiae,White-faced Heron
+species/10627,Liopholis whitii,White's Skink
+species/14985,Egernia saxatilis,Black Rock Skink
+species/8788,Cryptophis nigrescens,Eastern Small-eyed Snake
+species/8154,Calyptorhynchus funereus,Yellow-tailed Black-cockatoo
+species/8178,Strepera graculina,Pied Currawong
+species/8183,Platycercus elegans,Crimson Rosella
+species/8171,Manorina melanocephala,Noisy Miner
+species/8170,Lichenostomus chrysops,Yellow-faced Honeyeater
+species/8189,Eopsaltria australis,Eastern Yellow Robin
+species/8155,Corvus coronoides,Australian Raven
+species/8157,Chrysococcyx basalis,Horsfield's Bronze-cuckoo
+species/8168,Anthochaera (Anthochaera) carunculata,Red Wattlebird
+species/12367,Chalinolobus gouldii,Gould's Wattled Bat
+species/8374,Pogona barbata,Bearded Dragon
+species/8772,Helicarion nigra,Semi-slug
+species/15140,Hyridella,Freshwater Mussels
+species/8766,Cystopelta purpurea,Humpback Slug
+species/8467,Euastacus,Spiny Crayfish
+species/15141,Stratospongilla lanei,Sponge
+species/15135,Rheumatometra philarete,Water Strider
+species/15136,Ranatra dispar,Water Scorpion
+species/8498,Atalophlebia,Mayfly nymph
+species/15133,Synlestes weyersii,Bronze Needle Damselfly
+species/8484,Notonectidae,Backswimmer
+species/8508,Hyriidae,Freshwater Mussel
+species/8490,Dytiscidae,Diving Beetle larva
+species/8499,Austrophlebioides,Mayfly nymph
+species/8502,Cosmioperla,Stonefly nymph
+species/15138,Jappa strigata,Common Horned Jappa
+species/15134,Anax papuensis,Australian Emperor Dragonfly
+species/8479,Gyrinidae,Whirligig Beetle
+species/8494,Leptoceridae,Caddisfly larva
+species/15137,Diplonychus eques,Giant Water Bug
+species/8477,Gerridae,Water Strider
+species/8503,Gripopterygidae,Stonefly nymph
+species/8774,Prietocella barbara,Small Pointed Snail
+species/8773,Oxychilus alliarius,Garlic Snail
+species/8489,Culicidae,Mosquito larvae
+species/8475,Culicidae,Mosquito
+species/8492,Hydropsychidae,Caddisfly larva
+species/8474,Corixidae,Water Boatman
+species/8472,Chironomidae,Non-biting Midge
+species/8491,Gyrinidae,Whirligig Beetle larva
+species/8488,Chironomidae,Non-biting Midge
+species/8486,Agapetus,Caddisfly larva
+species/8507,Ferrissia,Freshwater Limpet
+species/8184,Platycercus eximius,Eastern Rosella
+species/8233,Pardalotus striatus,Striated Pardalote
+species/14377,Calyptorhynchus banksii graptogyne,Red-tailed Black-Cockatoo
+species/4209,Tadorna tadornoides,Australian Shelduck
+species/8222,Sterna caspia,Caspian Tern
+species/6455,Pseudemoia spenceri,Trunk-climbing Cool-skink
+species/7764,Pseudemoia rawlinsoni,Glossy Grass Skink
+species/11350,Ogyris genoveva,Southern Purple Azure
+species/12372,Lampropholis guichenoti,Pale-flecked Garden Sunskink
+species/15610,Acritoscincus duperreyi,Eastern Three-lined Skink
+species/12406,Lampropholis delicata,Dark-flecked Garden Sunskink
+species/8397,Tiliqua nigrolutea,Blotched Blue-tongue
+species/10702,Eulamprus tympanum tympanum,Southern Water-skink
+species/15225,Anepischetosia maccoyi,Highlands Forest Skink
+species/8401,Isoodon obesulus,Southern Brown Bandicoot
+species/8626,Lepas,Goose Barnacle
+species/7309,Cacatua tenuirostris,Long-billed Corella
+species/8404,Chalinolobus morio,Chocolate Wattled Bat
+species/5729,Malacorhynchus membranaceus,Pink-eared Duck
+species/8264,Phalacrocorax varius,Pied Cormorant
+species/8351,Neobatrachus sudellae,Sudell's Frog
+species/14378,Neophema chrysogaster,Orange-bellied Parrot
+species/14385,Stagonopleura guttata,Diamond Firetail
+species/8407,Pteropus poliocephalus,Grey-headed Flying-fox
+species/7366,Megalurus gramineus,Little Grassbird
+species/7384,Cormobates leucophaeus,White-throated Treecreeper
+species/15127,Chrysomelidae,Eucalyptus Leaf Beetle
+species/8149,Ninox novaeseelandiae,Southern Boobook
+species/8243,Anas superciliosa,Pacific Black Duck
+species/8804,Dolomedes,Water Spider
+species/8803,Delena cancerides,Social Huntsman
+species/8806,Eriophora biapicata,Orb-weaving Spider
+species/8586,Rutilia,Tachinid Fly
+species/8538,Ecnolagria grandis,Honeybrown Beetle
+species/15206,Hyporhamphus regularis,River Garfish
+species/15278,Hyperlophus vittatus,Sandy Sprat
+species/15281,Favonigobius lateralis,Southern Longfin Goby
+species/8519,Iridomyrmex purpureus,Meat Ant
+species/8473,Zygoptera,Damselfly
+species/8506,Corbicula,Little Basket Shell
+species/8606,Diamma bicolor,Blue Ant
+species/8795,Pseudonaja textilis,Eastern Brown Snake
+species/8789,Drysdalia coronoides,White-lipped Snake
+species/8787,Austrelaps superbus,Lowland Copperhead
+species/8818,Chelodina longicollis,Eastern Snake-necked Turtle
+species/8383,Varanus gouldii,Sand Goanna
+species/15148,Venatrix furcillata,Little Striped Wolf Spider
+species/8792,Parasuta flagellum,Little Whip Snake
+species/11114,Howidipterus donnae,Lungfish
+species/8799,Austracantha minax,Spiny Spider
+species/8796,Simoselaps australis,Coral Snake
+species/8790,Drysdalia mastersii,Masters' Snake
+species/8797,Vermicella annulata,Bandy Bandy
+species/8785,Pseudonaja aspidorhyncha,Strap-snouted Brown Snake
+species/8760,Pseudoscorpionida,Pseudoscorpion
+species/8808,Isopeda montana,Huntsman
+species/8786,Austrelaps ramsayi,Highland Copperhead
+species/8816,Sidymella trapezia,Crab Spider
+species/8801,Cheiracanthium mordax,Sac Spider
+species/8817,Steatoda,Brown House Spider
+species/8809,Lampona cylindrata,White-tailed Spider
+species/8813,Oxyopes,Lynx Spider
+species/8805,Dysdera crocota,Slater-eating Spider
+species/8807,Hadronyche modesta,Victorian Funnelweb Spider
+species/8802,Deinopis,Net-casting Spider
+species/8798,Ambicodamus crinitus,Red and Black Spider
+species/8759,Lychas variatus,Marbled Scorpion
+species/8812,Missulena bradleyi,Mouse Spider
+species/15147,Pygmipanda kershawi,Kershaw's Panda-snail
+species/8768,Lehmannia nyctelia,Striped Field Slug
+species/10538,Allocharopa tarravillensis,pinwheel snail
+species/8775,Theba pisana,White Italian Snail
+species/8777,Victaphanta compacta,Otway Black Snail
+species/15146,Austrorhytida,Carnivorous Snail
+species/10530,Austrochloritis,bristle snail
+species/8769,Limacus flavus,Great Yellow Slug
+species/8767,Deroceras reticulatum,Grey Field Slug
+species/8765,Arion intermedius,Hedgehog Slug
+species/8770,Limax maximus,Leopard Slug
+species/8764,Arion ater,Black Slug
+species/8776,Victaphanta atramentaria,Orange Foot Snail
+species/8583,Melangyna viridiceps,Common Hover Fly
+species/15153,Caedicia simplex,Common Katydid
+species/8564,Blattella germanica,German Cockroach
+species/8580,Hippoboscidae,Louse Fly
+species/8579,Eristalis tenax,Drone Fly
+species/8577,Comptosia,Bee Fly
+species/8574,Boreoides subulatus,Wingless Soldier Fly
+species/8591,Austromantispa,Mantis Fly
+species/8594,Suhpalacsa,Owlfly
+species/8600,Didymuria violescens,Spur-legged Stick-insect
+species/8604,Porotermes adamsoni,Dampwood Termite
+species/8603,Nasutitermes fumigatus,Weathered Wood Termite
+species/8602,Coptotermes acinaciformis,Subterranean Termite
+species/8754,Lithobiidae,Lithobiid Centipede
+species/8576,Colepia rufiventris,Robber Fly
+species/15151,Panesthia,Wood cockroaches
+species/15150,Diplopoda,Millipedes
+species/8588,Scaptia,March Fly
+species/15142,Tipulidae,Craneflies
+species/15152,Neoaratus hercules,Hercules Robberfly
+species/8567,Laxta,Bark Cockroach
+species/8762,Armadillidium vulgare,Pillbug
+species/8763,Porcellio scaber,Slater
+species/8593,Mallada,Green Lacewing
+species/8565,Drymaplaneta,Native Cockroach
+species/8581,Leptotarsus,Crane Fly
+species/8575,Calliphora augur,Lesser Brown Blowfly
+species/8597,Harpobittacus australis,Scorpion Fly
+species/8598,Zygentoma,Silverfish
+species/8566,Ellipsidion,Native Cockroach
+species/8758,Julidae,Julid Millipede
+species/8601,Tropidoderus childrenii,Children's Stick Insect
+species/8582,Lucilia cuprina,Australian Sheep Blowfly
+species/8568,Periplaneta australasiae,Australian Cockroach
+species/8573,Labidura truncata,Common Brown Earwig
+species/8572,Forficula auricularia,European Earwig
+species/8587,Sarcophagidae,Flesh Fly
+species/8585,Musca vetustissima,Bush Fly
+species/8578,Drosophila melanogaster,Vinegar Fly
+species/8596,Tenodera australasiae,Purple-winged Mantid
+species/8584,Musca domestica,Common House Fly
+species/8478,Gripopterygidae,Stonefly
+species/8504,Hirudinea,Freshwater Leech
+species/8482,Laccotrephes,Water Scorpion
+species/8487,Archichauliodes,Dobsonfly larva
+species/8483,Leptoceridae,Caddisfly
+species/8495,Sclerocyphon,Water Penny larva
+species/8509,Planorbidae,Freshwater Snail
+species/8517,Oligochaeta,Earthworm
+species/8505,Acarina,Water Mite
+species/8481,Hygrobiidae,Screech Beetle
+species/8702,Uroteuthis (Aestuariolus) noctiluca,Luminous Bay Squid
+species/8485,Sclerocyphon,Water Penny
+species/8466,Copepoda,Cyclops Copepod
+species/8480,Hydropsychidae,Caddisfly
+species/8471,Atalophlebia,Mayfly
+species/8510,Nematoda,Nematode Worm
+species/8501,Coloburiscoides,Mayfly nymph
+species/8468,Ostracoda,Seed Shrimp
+species/8465,Cladocera,Water Flea
+species/8496,Stratiomyidae,Soldier Fly larva
+species/8493,Hygrobiidae,Screech Beetle larva
+species/8511,Oligochaeta,Freshwater Segmented Worm
+species/15119,Aepyprymnus rufescens,Rufous Bettong
+species/8426,Antechinus flavipes,Yellow-footed Antechinus
+species/13672,Balaenoptera physalus,Fin Whale
+species/8382,Underwoodisaurus milii,Thick-tailed Gecko
+species/8379,Heteronotia binoei,Bynoe's Gecko
+species/8393,Ctenotus,Ctenotus Skink
+species/8384,Varanus varius,Tree Goanna
+species/8457,Pseudomys shortridgei,Heath Rat
+species/8376,Rankinia diemensis,Mountain Dragon
+species/8429,Sminthopsis crassicaudata,Fat-tailed Dunnart
+species/8459,Rattus lutreolus,Australian Swamp Rat
+species/8408,Tadarida australis,White-striped Free-tailed Bat
+species/8413,Dama dama,Fallow Deer
+species/15228,Egernia cunninghami,Cunningham's Skink
+species/8394,Egernia,Egernia Skink
+species/8428,Antechinus swainsonii,Dusky Antechinus
+species/8395,Eulamprus,Water Skink
+species/8421,Macropus rufogriseus,Red-necked Wallaby
+species/8385,Aprasia inaurita,Red-tailed Worm-lizard
+species/8387,Delma australis,Southern Legless Lizard
+species/8391,Lialis burtonis,Burton's Snake-lizard
+species/8398,Tiliqua occipitalis,Western Blue-tongue
+species/8372,Ctenophorus pictus,Painted Dragon
+species/8389,Delma impar,Striped Legless Lizard
+species/8439,Cercartetus concinnus,Western Pygmy Possum
+species/15230,Ctenotus taeniolatus,Copper-tailed Skink
+species/8425,Antechinus agilis,Agile Antechinus
+species/8458,Rattus fuscipes,Australian Bush Rat
+species/8449,Trichosurus vulpecula,Common Brushtail Possum
+species/8452,Lepus capensis,Brown Hare
+species/8390,Delma inornata,Patternless Legless Lizard
+species/8378,Diplodactylus vittatus,Wood Gecko
+species/8388,Delma butleri,Butler's Legless Lizard
+species/8403,Perameles nasuta,Long-nosed Bandicoot
+species/8405,Nyctophilus geoffroyi,Lesser Long-eared Bat
+species/8430,Sminthopsis leucopus,White-footed Dunnart
+species/8454,Rattus norvegicus,Brown Rat
+species/14292,Delphinus delphis,Common Dolphin
+species/8445,Petaurus breviceps,Sugar Glider
+species/8370,Amphibolurus norrisi,Mallee Tree Dragon
+species/8444,Petaurus australis,Yellow-bellied Glider
+species/8420,Macropus robustus,Common Wallaroo
+species/14336,Pseudorca crassidens,False Killer Whale
+species/8417,Capra hircus,Goat
+species/8453,Oryctolagus cuniculus,European Rabbit
+species/14333,Balaenoptera edeni,Bryde's Whale
+species/8396,Lampropholis,Garden Skink
+species/8433,Pseudomys apodemoides,Silky Mouse
+species/8406,Pteropus scapulatus,Little Red Flying-fox
+species/14334,Orcinus orca,Killer Whale
+species/8409,Vespadelus vulturnus,Little Forest Bat
+species/8415,Vulpes vulpes,Red Fox
+species/14335,Globicephala melas,Long-finned Pilot Whale
+species/8371,Ctenophorus fordi,Mallee Military Dragon
+species/8386,Aprasia parapulchella,Pink-tailed Legless Lizard
+species/8432,Notomys mitchellii,Mitchell's Hopping Mouse
+species/8448,Trichosurus cunninghami,Mountain Brushtail Possum
+species/8435,Phascogale tapoatafa,Brush-tailed Phascogale
+species/8443,Petauroides volans,Greater Glider
+species/8411,Cervus elaphus,Red Deer
+species/8412,Cervus unicolor,Sambar
+species/8427,Antechinus minimus,Swamp Antechinus
+species/8440,Cercartetus lepidus,Little Pygmy Possum
+species/8450,Potorous longipes,Long-footed Potoroo
+species/8438,Burramys parvus,Mountain Pygmy Possum
+species/14337,Ziphius cavirostris,Cuvier's Beaked Whale
+species/14339,Kogia breviceps,Pygmy Sperm Whale
+species/14338,Mesoplodon grayi,Gray's Beaked Whale
+species/8354,Pseudophryne dendyi,Dendy's Toadlet
+species/8361,Litoria lesueuri,Lesueur's Frog
+species/8360,Litoria ewingii,Brown Tree Frog
+species/8365,Litoria raniformis,Southern Bell Frog
+species/8347,Limnodynastes tasmaniensis,Spotted Grass Frog
+species/8341,Crinia signifera,Common Eastern Froglet
+species/8346,Limnodynastes peronii,Striped Marsh Frog
+species/8350,Neobatrachus pictus,Painted Frog
+species/8339,Heleioporus australiacus,Giant Burrowing Frog
+species/8355,Pseudophryne semimarmorata,Southern Toadlet
+species/8366,Litoria spenceri,Spotted Tree Frog
+species/8340,Crinia parinsignifera,Eastern Sign-bearing Froglet
+species/8353,Pseudophryne bibronii,Brown Toadlet
+species/8362,Litoria littlejohni,Littlejohn's Tree Frog
+species/8364,Litoria paraewingi,Victorian Frog
+species/8342,Crinia sloanei,Sloane's Froglet
+species/8344,Geocrinia victoriana,Eastern Smooth Frog
+species/8356,Uperoleia laevigata,Smooth Toadlet
+species/8343,Geocrinia laevis,Smooth Froglet
+species/8349,Mixophyes balbus,Stuttering Frog
+species/8300,Acanthopagrus butcheri,Black Bream
+species/15132,Galaxias maculatus,Common Galaxias
+species/14984,Philypnodon grandiceps,Flathead Gudgeon
+species/8295,Pomatomus saltatrix,Tailor
+species/8299,Sphyraena novaehollandiae,Snook
+species/14293,Thyrsites atun,Barracouta
+species/13728,Arripis trutta,Eastern Australian Salmon
+species/8164,Dasyornis (Maccoyornis) broadbenti,Rufous Bristlebird
+species/15121,Coracina papuensis,White-bellied Cuckoo-shrike
+species/15120,Philemon citreogularis,Little Friarbird
+species/12608,Philemon corniculatus,Noisy Friarbird
+species/8255,Gallinula tenebrosa,Dusky Moorhen
+species/14398,Heteronympha merope,Common Brown Butterfly
+species/8272,Threskiornis spinicollis,Straw-necked Ibis
+species/8190,Petroica phoenicea,Flame Robin
+species/8207,Elseyornis melanops,Black-fronted Dotterel
+species/10572,Opodiphthera helena,Helena Gum-moth
+species/7364,Epthianura albifrons,White-fronted Chat
+species/8247,Aythya australis,Hardhead
+species/8153,Callocephalon fimbriatum,Gang-gang Cockatoo
+species/8146,Falco peregrinus,Peregrine Falcon
+species/8192,Eudyptula minor,Little Penguin
+species/12400,Sericornis frontalis,White-browed Scrubwren
+species/8143,Falco berigora,Brown Falcon
+species/14394,Geitoneura klugii,Marbled Xenica
+species/12249,Zizina otis labradus,Common Grass-blue
+species/8188,Streptopelia chinensis,Spotted Turtle-dove
+species/8267,Plegadis falcinellus,Glossy Ibis
+species/8150,Ninox strenua,Powerful Owl
+species/8182,Neophema chrysostoma,Blue-winged Parrot
+species/8271,Threskiornis molucca,Australian White Ibis
+species/14376,Ptilonorhynchus violaceus,Satin Bowerbird
+species/8145,Falco longipennis,Australian Hobby
+species/8206,Cladorhynchus leucocephalus,Banded Stilt
+species/8208,Erythrogonys cinctus,Red-kneed Dotterel
+species/8209,Gallinago hardwickii,Latham's Snipe
+species/14392,Danaus plexippus,Monarch
+species/8570,Gryllotalpa,Mole Cricket
+species/15222,Aenetus eximia,Splendid Ghost Moth
+species/12387,Acanthiza pusilla,Brown Thornbill
+species/7343,Cisticola exilis,Golden-headed Cisticola
+species/8162,Neochmia temporalis,Red-browed Finch
+species/8256,Gallirallus philippensis,Buff-banded Rail
+species/7386,Coturnix ypsilophora,Brown Quail
+species/7327,Acanthiza lineata,Striated Thornbill
+species/8158,Chrysococcyx osculans,Black-eared Cuckoo
+species/8194,Puffinus tenuirostris,Short-tailed Shearwater
+species/8269,Lewinia pectoralis,Lewin's Rail
+species/8563,Psaltoda moerens,Redeye Cicada
+species/7219,Acrocephalus australis,Australian Reedwarbler
+species/15214,Endoxyla secta,Goat Moth
+species/15216,Snellenia,Snellenia moths
+species/14400,Tisiphone abeona,Sword-grass Brown
+species/8175,Todiramphus sanctus,Sacred Kingfisher
+species/6375,Entomyzon cyanotis,Blue-faced Honeyeater
+species/8228,Acridotheres tristis,Common Myna
+species/12388,Psophodes olivaceus,Eastern Whipbird
+species/8156,Cacomantis flabelliformis,Fan-tailed Cuckoo
+species/11414,Belenois java teutonia,Caper White Butterfly
+species/8249,Botaurus poiciloptilus,Australasian Bittern
+species/8237,Sturnus vulgaris,Common Starling
+species/8270,Stictonetta naevosa,Freckled Duck
+species/8159,Cuculus pallidus,Pallid Cuckoo
+species/7320,Ninox connivens,Barking Owl
+species/8590,Phaulacridium vittatum,Wingless Grasshopper
+species/12393,Corvus tasmanicus,Forest Raven
+species/8242,Anas rhynchotis,Australasian Shoveler
+species/15220,Amata,Moth
+species/8147,Haliaeetus leucogaster,White-bellied Sea-eagle
+species/15221,Urolitha bipunctifera,Emerald
+species/15223,Anthela varia,Varied Anthelid
+species/15218,Fodina ostorius,Noctuid moth
+species/15219,Chlorocoma carenaria,Veined Emerald
+species/8571,Teleogryllus commodus,Black Field Cricket
+species/15224,Comocrus behri,Mistletoe Moth
+species/8224,Tachybaptus novaehollandiae,Australasian Grebe
+species/8181,Glossopsitta concinna,Musk Lorikeet
+species/8217,Numenius madagascariensis,Eastern Curlew
+species/14380,Petroica rodinogaster,Pink Robin
+species/8204,Charadrius bicinctus,Double-banded Plover
+species/6167,Tyto alba javanica,Barn Owl
+species/8241,Anas gracilis,Grey Teal
+species/14403,Hesperilla chrysotricha,Golden-haired Sedge-skipper
+species/8589,Caedicia,Katydid
+species/12264,Papilio (Eleppone) anactus,Dingy Swallowtail
+species/14390,Hypochrysops delicia,Moonlight Jewel
+species/14402,Graphium macleayanum,Macleay's Swallowtail
+species/7374,Strepera versicolor,Grey Currawong
+species/12254,Delias aganippe,Red-spotted Jezebel Butterfly
+species/14395,Oreisplanus perornatus,Mountain Spotted Skipper
+species/8274,Pieris rapae,Cabbage White
+species/8273,Candalides hyacinthinus,Varied Dusky Blue
+species/8245,Ardea ibis,Cattle Egret
+species/14391,Pseudalmenus chlorinda,Silky Hairstreak
+species/14816,Tyto novaehollandiae,Masked Owl
+species/8160,Scythrops novaehollandiae,Channel-billed Cuckoo
+species/14399,Oreixenica kershawi,Striped Xenica
+species/14396,Hesperilla donnysa,Varied Sedge-skipper
+species/8203,Calidris tenuirostris,Great Knot
+species/8213,Larus dominicanus,Kelp Gull
+species/8138,Accipiter cirrocephalus,Collared Sparrowhawk
+species/14397,Heteronympha banksii,Bank's Brown
+species/14388,Heteronympha penelope,Shouldered Brown
+species/11438,Toxidia doubledayi,Lilac Grass-skipper
+species/14393,Geitoneura acantha,Ringed Xenica
+species/14401,Hesperilla idothea,Flame Sedge-skipper
+species/8532,Castiarina,Jewel Beetle
+species/8542,Lamprima aurata,Golden Stag Beetle
+species/8529,Anoplognathus,Christmas Beetle
+species/8534,Chrysolopus spectabilis,Botany Bay Weevil
+species/8546,Ptomaphila lacrymosa,Carrion Beetle
+species/8526,Acrossidius tasmaniae,Black-headed Pasture Cockchafer
+species/8527,Adelium similatum,Darkling Beetle
+species/8528,Adoryphorus coulonii,Red-headed Pasture Cockchafer
+species/8535,Conoderus,Click Beetle
+species/8537,Diphucephala,Green Scarab Beetle
+species/8543,Paropsis atomaria,Eucalyptus Leaf Beetle
+species/8544,Phoracantha semipunctatus,Common Eucalypt Longicorn
+species/8549,Apiomorpha,Gall Former
+species/8550,Cardiaspina,Lace Lerp
+species/8554,Glycaspis,Sugar Lerp
+species/8555,Gminatus australis,Assassin Bug
+species/8560,Scolypopa australis,Passionvine Hopper
+species/8562,Siphanta,Green Planthopper
+species/8552,Dindymus versicolor,Harlequin Bug
+species/8561,Sextius virescens,Green Treehopper
+species/8547,Stegobium paniceum,Drugstore Beetle
+species/8553,Eurymela,Gumtree Hopper
+species/8556,Icerya purchasi,Cottony Cushion Scale
+species/8557,Mictis profana,Crusader Bug
+species/8545,Porrostoma,Lycid Beetle
+species/8531,Calosoma schayeri,Green Carabid Beetle
+species/8539,Eupoecila australasiae,Fiddler Beetle
+species/15126,Blackburniella intricata,Checkered beetle
+species/8540,Harmonia conformis,Common Spotted Ladybird
+species/8536,Creophilus erythrocephalus,Devil's Coach Horse
+species/8548,Xanthogaleruca luteola,Elm Leaf Beetle
+species/8530,Anthrenus verbasci,Carpet Beetle
+species/8558,Oxycarenus arctatus,Coon Bug
+species/8520,Leptomyrmex erythrocephalus,Red-headed Spider Ant
+species/8610,Sceliphron laetum,Common Mud-dauber
+species/8611,Stilbum cyanurum,Cuckoo Wasp
+species/15125,Ichneumonidae,
+species/8607,Echthromorpha intricatoria,Cream-spotted Ichneumon
+species/8525,Apis (Apis) mellifera,European Honey Bee
+species/8518,Camponotus consobrinus,Sugar Ant
+species/8521,Myrmecia pilosula,Jumper Ant
+species/8523,Rhytidoponera metallica,Greenhead Ant
+species/15124,Pheidole,big headed ants
+species/8524,Amegilla,Blue-banded Bee
+species/8609,Polistes humilis,Common Paperwasp
+species/8605,Brachymeria,Parasitic Chalcid Wasp
+species/8140,Aquila audax,Wedge-tailed Eagle
+species/15200,Atherinosoma microstoma,Smallmouth Hardyhead
+species/14418,Pseudocaranx georgianus,Silver Trevally
+species/15277,Engraulis australis,Australian Anchovy

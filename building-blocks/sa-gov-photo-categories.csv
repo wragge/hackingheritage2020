@@ -1,0 +1,437 @@
+id,name,level
+1,$Categories,1
+2,$Keywords,1
+302,Clothing and Dress,2
+354,Clothing 1900-1910,3
+375,Clothing 1910-1920,3
+196,accomodation,2
+279,agriculture,2
+286,cows,3
+282,crop,3
+288,dairy,3
+296,fruit trees,3
+287,milking,3
+387,olives,3
+295,pigs,3
+363,poultry,3
+281,vineyards,3
+280,wheat,3
+66,Animals,2
+163,bears,3
+171,birds,3
+158,camels,3
+149,canine,3
+145,cattle,3
+362,chickens,3
+289,dairy cows,3
+177,deer,3
+143,dogs,3
+147,donkeys,3
+156,elephants,3
+178,emus,3
+160,goats,3
+146,horses,3
+183,kangaroos,3
+181,kookaburras,3
+170,ostriches,3
+153,pigs,3
+161,poultry,3
+169,rabbits,3
+172,seagulls,3
+144,sheep,3
+361,turkeys,3
+187,art,2
+247,bridges,2
+332,Buildings,2
+445,heritage buildings,3
+412,Caves,2
+473,Cemeteries,2
+32,children,2
+225,Churches,2
+219,coastline,2
+451,Coins,2
+124,communication,2
+197,community,2
+194,construction,2
+419,Defence,2
+352,Desert,2
+468,Drainage,2
+366,Dredges,2
+398,Exhibitions,3
+426,Education,2
+410,Elderly,2
+401,Electricity supply,2
+272,excavating machinery,2
+399,Exhibitions,2
+299,explorers and exploration,2
+467,Factories,2
+303,Farms and Farming,2
+454,Fires,2
+408,Flags,2
+185,floods,2
+411,Flora,2
+38,Flower Day,2
+84,food,2
+345,Gardens,2
+300,Geology,2
+381,Governors,3
+382,Lord Tennyson,4
+307,Graves,2
+455,Health,2
+446,historic site,2
+390,Hospitals,2
+400,Hotels,2
+267,houses,2
+415,Industry,3
+414,Industry,3
+416,Industry,2
+273,irrigation,2
+258,Jetties,2
+263,"Hog Bay Jetty, Kangaroo Island",3
+297,Horseshoe Bay Jetty,3
+259,Murat Bay Jetty,3
+365,"Outer Harbor,",3
+268,Port Darwin,3
+231,Lakes,2
+239,"Blue Lake, Mount Gambier",3
+241,"Brown Lake, Mount Gambier",3
+336,"Lake Fowler, Yorke Peninsula",3
+240,"Leg of Mutton Lake, Mount Gambier",3
+388,"Torrens Lake, Adelaide",3
+232,"Valley Lake, Mount Gambier",3
+235,Lighthouses,2
+13,Location,2
+41,Adelaide Hills,3
+14,"Adelaide, South Australia",3
+182,"Aldinga, South Australia",3
+383,"Alice Springs, Northern Territory",3
+248,"Allans Creek, South Australia",3
+262,Althorpe Island,3
+380,"Arltunga, Northern Territory",3
+392,"Auburn, South Australia",3
+190,"Balhanna, South Australia",3
+191,"Barmera, South Australia",3
+237,"Beachport, South Australia",3
+138,"Belair, South Australia",3
+137,"Berri, South Australia",3
+58,"Blanchetown, South Australia",3
+386,"Blinman, South Australia",3
+470,"Booleroo Centre, South Australia",3
+341,"Bordertown, South Australia",3
+443,"Bowden, South Australia",3
+370,"Brazil, South America",3
+175,"Brighton, South Australia",3
+179,"Broken Hill, New South Wales",3
+127,"Brompton, South Australia",3
+15,"Bundaleer, South Australia",3
+417,"Burnside, South Australia",3
+72,"Burra, South Australia",3
+326,"Callington, South Australia",3
+421,"Cape du Couedic, Kangaroo Island",3
+402,"Cape Jaffa, South Australia",3
+266,"Cape Jervis, South Australia",3
+246,"Cape Northumberland, South Australia",3
+261,"Ceduna, South Australia",3
+17,"Charlotte Plains, Queensland",3
+203,"Clarendon, South Australia",3
+152,"Cobdogla, South Australia",3
+157,"Colonel Light Gardens, South Australia",3
+356,Cowandilla,3
+358,Cowandilla. South Australia,3
+139,"Crafers, South Australia",3
+269,"Croydon, South Australia",3
+315,"Crystal Brook, South Australia",3
+20,"Cunnanulla, Queensland",3
+218,"Darwin, Northern Territory",3
+418,"Dry Creek, South Australia",3
+371,East Indies,3
+202,"Edithburgh, South Australia",3
+309,"Encounter Bay, South Australia",3
+347,"Enfield, South Australia",3
+466,England,3
+349,"Ethelton, South Australia",3
+52,"Eyre Peninsula, South Australia",3
+47,Fleurieu Peninsula,3
+21,"Flinders Ranges, South Australia",3
+481,"Forestville, South Australia",3
+162,"Gawler, South Australia",3
+95,"Gilberton, South Australia",3
+105,"Glanville, South Australia",3
+49,"Glenelg, South Australia",3
+491,"Goodwood, South Australia",3
+132,"Goolwa, South Australia",3
+385,"Granite Island, South Australia",3
+431,Great Britain,3
+425,"Hackney, South Australia",3
+320,"Hamley Bridge, South Australia",3
+192,"Henley Beach, South Australia",3
+344,"Hindmarsh, South Australia",3
+372,Indonesia,3
+180,"Iron Knob, South Australia",3
+317,"Islington, South Australia",3
+346,Italy,3
+436,"Jamestown, South Australia",3
+323,"Kadina, South Australia",3
+48,"Kangaroo Island, South Australia",3
+249,"Kapunda, South Australia",3
+337,Karoonda,3
+342,"Keith, South Australia",3
+409,"Kensington, South Australia",3
+184,"Kent Town, South Australia",3
+459,"Keswick, South Australia",3
+413,"Kingscote, Kangaroo Island, South Australia",3
+207,"Kychering, South Australia",3
+176,"Lake Bonney, South Australia",3
+129,"Largs Bay, South Australia",3
+128,"Leigh Creek, South Australia",3
+55,Limestone Coast,3
+442,"Linden Park, South Australia",3
+432,"Littlehampson, South Australia",3
+434,"Littlehampton, South Australia",3
+159,"Loxton, South Australia",3
+429,"Magill, South Australia",3
+130,"Mannum, South Australia",3
+312,"Marion, South Australia",3
+424,"McLaren Vale, South Australia",3
+469,"Melrose, South Australia",3
+135,"Meningie, South Australia",3
+335,Mile End,3
+437,"Mile End, South Australia",3
+318,"Mile End, South Australia",3
+324,"Millicent, South Australia",3
+464,"Mitcham, South Australia",3
+460,"Monarto, South Australia",3
+134,"Moonta, South Australia",3
+251,"Morgan, South Australia",3
+277,"Morialta, South Australia",3
+484,"Morialta, South Australia",4
+119,"Morphette Vale, South Australia",3
+403,"Morphettville, South Australia",3
+475,"Morphettville, South Australia",4
+118,"Mount Barker, South Australia",3
+23,"Mount Gambier, South Australia",3
+348,"Mount Lofty, South Australia",3
+490,"Mundoora, South Australia",3
+260,"Murat Bay, South Australisa",3
+120,"Murray Bridge, South Australia",3
+40,Murray River,3
+270,"Mypolonga, South Australia",3
+204,"Mypolonga, South Australia",3
+331,"Nairn, South Australia",3
+327,"Nairn, South Australia",3
+123,"Naracoorte, South Australia",3
+308,New Zealand,3
+226,"Noarlunga, South Australia",3
+449,"North Adelaide, South Australia",3
+22,Northern Territory,3
+151,"Norwood, South Australia",3
+206,Nullabor Plain,3
+486,"Nuriootpa, South Australia",3
+154,"Oakbank, South Australia",3
+193,"Oodnadatta, South Australia",3
+205,"Ooldea, South Australia",3
+221,"Orroroo, South Australia",3
+212,"Outer Harbor, South Australia",3
+314,"Owen, South Australia",3
+304,"Palmerston, Northern Territory",3
+252,"Pekina, South Australia",3
+188,"Penola, South Australia",3
+140,"Pinaroo, South Australia",3
+274,"Poompoota Flat, South Australia",3
+33,"Port Adelaide, South Australia",3
+50,"Port Augusta, South Australia",4
+367,"Port Augusta, South Australia",3
+131,"Port Elliot, South Australia",3
+59,"Port Germein, South Australia",3
+43,"Port Lincoln, South Australia",3
+165,"Port Noarlunga, South Australia",3
+56,"Port Pirie, South Australia",3
+104,Port River,3
+264,"Port Vincent, South Australia",3
+316,"Port Wakefield, South Australia",3
+19,Queensland,3
+57,"Renmark, South Australia",3
+96,River Torrens,3
+112,Riverland,3
+54,"Robe, South Australia",3
+440,"Rose Park, South Australia",3
+34,"Roseworthy, South Australia",3
+133,"Saddleworth, South Australia",3
+397,"Saint Peters, South Australia",3
+174,"Salisbury, South Australia",3
+173,"Semaphore, South Australia",3
+305,"Seppeltsfield, South Australia",3
+311,"Snowtown, South Australia",3
+369,South Africa,3
+18,South Australia,3
+456,"South East, South Australia",3
+142,Spencer Gulf,3
+384,"Springvale, South Australia",3
+373,Sri Lanka,3
+51,"Strathalbyn, South Australia",3
+125,"Swan Reach, South Australia",3
+16,"Sydney, New South Wales",3
+141,"Tailem Bend, South Australia",3
+110,"Tanunda, South Australia",3
+208,"Tarcoola, South Australia",3
+325,"Tintinara, South Australia",3
+441,"Toorak Gardens, South Australia",3
+355,Two Wells,3
+359,"Two Wells, South Australia",3
+155,"Unley, South Australia",3
+298,"Upper Sturt, South Australia",3
+24,"Victor Harbor, South Australia",3
+25,Victoria,3
+113,"Waikerie, South Australia",3
+253,"Wallaroo, South Australia",3
+244,"Waterfall Gully, South Australia",3
+189,"Wayville, South Australia",3
+452,"Wellington, New Zealand",3
+115,"Wellington, South Australia",3
+111,"Whyalla, South Australia",3
+472,Willochra Creek,3
+44,"Willunga, South Australia",3
+471,Wilmington,3
+126,"Wilpena Pound, South Australia",3
+340,"Wolseley, South Australia",3
+199,"Woodville, South Australia",3
+46,Yorke Peninsula,3
+343,Machinery,2
+214,Manufacturing,2
+374,Maps,2
+301,"Mawson, Sir Douglas",2
+396,Meat industry,2
+450,Medallions,2
+462,Medical,2
+114,memorials,2
+195,migrant hostels,2
+63,migration,2
+463,Military,2
+278,Military Ceremonials,2
+254,mining,2
+351,Mountains,2
+85,music,2
+148,Outback,2
+377,Overland Telegraph Line,3
+379,Overland Telegraph Line,2
+245,Parks and Gardens,2
+217,Politicians,2
+167,portraits,2
+364,Ports and harbours,2
+224,produce,2
+284,fish,3
+290,milk,3
+275,Public Servants,2
+276,"Samuel McIntosh, Director of Irrigation",3
+423,Reservoirs,2
+338,Rivers,2
+229,Rivers,2
+227,Rivers,2
+420,"American River, Kangaroo Island",3
+376,Finke River,3
+228,Hindmarsh River,3
+250,Murray River,3
+339,Port River,3
+238,River Torrens,3
+223,Rural life,2
+291,milking cows,3
+242,Rural Scene,2
+186,science,2
+168,sculptures,2
+360,Sewerage,2
+255,smelters,2
+198,social life,2
+74,Sport,2
+83,athletics,3
+77,basketball,3
+79,bowls,3
+121,calisthenics,3
+75,cricket,3
+78,croquet,3
+92,dance,3
+88,equestrian,3
+285,fishing,3
+80,football,3
+98,horse racing,3
+91,hunting,3
+453,leisure,3
+89,netball,3
+90,PE drill,3
+82,racing,3
+201,horse racing,4
+200,motor racing,4
+87,rowing,3
+109,sailing,3
+76,swimming,3
+81,tennis,3
+93,water skiing,3
+108,woodchopping,3
+479,Statues,2
+333,Stone carvings,2
+457,Strikes,3
+458,Strikes,2
+220,Survey,2
+428,Theatres,2
+350,Tourism,2
+439,Town Planning,2
+100,Transport,2
+106,aeroplanes,3
+102,buses,3
+103,cars,3
+215,horse drawn,3
+292,rail,3
+294,Adelaide Railway Station loading yards,4
+293,Manoora Railway Station,4
+271,river,3
+216,ships,3
+107,military,4
+283,paddlesteamers,4
+474,Sailing Ships,4
+368,steamships,4
+101,trains,3
+99,trams,3
+8,War & Peace,2
+211,Boer War,3
+12,First World War,3
+11,Second World War,3
+222,Water Supply,2
+485,Welfare,2
+265,wharves,2
+306,Wine and wineries,2
+86,women,2
+117,working life,2
+310,World War I,2
+3,$Sources,1
+4,Categories,1
+164,Adelaide Zoo,2
+30,Agriculture,2
+489,blanks,2
+62,Botanic Gardens,2
+71,Cartography,2
+67,Community,2
+31,Education,2
+166,Festivals,2
+70,Government,2
+37,Health,2
+39,Housing,2
+7,Hurley photos,2
+6,Landscapes,2
+28,Life's a beach,2
+116,Manufacturing,2
+73,Migration,2
+53,Mining,2
+29,Pageants & parades,2
+60,Parklands,2
+65,Portraits,2
+94,Railways,2
+209,East-West Railway,3
+36,Royal Adelaide Show,2
+27,SA at War,2
+42,Shipping & Ports,2
+35,Steam Powered,2
+26,Streets of Adelaide,2
+69,Tourism,2
+448,wikimedia,2
+478,wikimedia_test,2
+476,wikimedia_upload,2
+488,wikimedia_uploaded,2
