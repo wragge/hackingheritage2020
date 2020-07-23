@@ -1,0 +1,6 @@
+.ipynb_checkpoints
+*.pyc
+draft*
+building-blocks/images*
+building-blocks/letters*
+cache.sqlite
