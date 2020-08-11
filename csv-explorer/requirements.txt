@@ -8,7 +8,7 @@ bleach==3.1.0
 click==7.1.1
 click-default-group==1.2.2
 cycler==0.10.0
-datasette==0.39
+datasette==0.46
 decorator==4.4.0
 defusedxml==0.6.0
 entrypoints==0.3
