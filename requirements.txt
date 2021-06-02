@@ -124,7 +124,7 @@ traitlets==4.3.3
 traittypes==0.2.1
 troveharvester==0.3.1
 unicodecsv==0.14.1
-urllib3==1.25.9
+urllib3==1.26.5
 uvicorn==0.11.6
 uvloop==0.14.0
 voila==0.1.21
