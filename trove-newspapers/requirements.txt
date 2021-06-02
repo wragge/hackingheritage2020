@@ -80,7 +80,7 @@ tqdm==4.47.0
 traitlets==4.3.3
 traittypes==0.2.1
 typing==3.7.4.1
-urllib3==1.25.9
+urllib3==1.26.5
 vega==3.4.0
 vega-datasets==0.8.0
 voila==0.1.21
