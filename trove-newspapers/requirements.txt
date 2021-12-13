@@ -37,7 +37,7 @@ jupyter-server==0.1.1
 jupyterlab==2.1.5
 jupyterlab-pygments==0.1.1
 jupyterlab-server==1.2.0
-lxml==4.5.1
+lxml==4.6.5
 MarkupSafe==1.1.1
 mistune==0.8.4
 nbconvert==5.6.1
